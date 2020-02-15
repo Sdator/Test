@@ -1,1 +1,18 @@
-测试
+[
+    {
+        "term": "asdf",
+        "definition": "\u6211\u4eec",
+        "context": "ex",
+        "term_plural": "",
+        "reference": "asdfasdf",
+        "comment": ""
+    },
+    {
+        "term": "abb",
+        "definition": "\u6d4b\u8bd5",
+        "context": "ex",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    }
+]
